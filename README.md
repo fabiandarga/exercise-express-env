@@ -13,7 +13,8 @@ Mit environment variables können wir das Verhalten unserer Anwendung konfigurie
 
 ## Teil 2 - Dotenv
 ### installiere dotenv
-Benutze npm um das dotenv Paket zu installieren.
+Benutze npm um das dotenv Paket zu installieren.  
+Paket & Anleitung: https://www.npmjs.com/package/dotenv
 
 ### Variablen in die .env Datei
 schreibe die Werte für die Env variablen (MULTIPLIKATOR, DEBUG) in die .env-Datei.
